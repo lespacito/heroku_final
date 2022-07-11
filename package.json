@@ -1,0 +1,19 @@
+{
+  "name": "lespabov2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lespacito",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "4.1.1",
+    "dayjs": "^1.11.3",
+    "discord.js": "^13.8.1",
+    "glob": "^8.0.3",
+    "mongoose": "^6.4.3",
+    "ms": "^2.1.3"
+  }
+}
